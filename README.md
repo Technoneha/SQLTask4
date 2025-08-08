@@ -11,15 +11,6 @@ This project contains simple SQL queries using the `sales` table to practice imp
 - `AVG()` – to find the average price of products
 - `GROUP BY` – to group data by product name
 
-## 🧾 Table Used: `sales`
-
-| sale_id | product_name | quantity | price |
-|---------|--------------|----------|-------|
-| 1       | Pen          | 10       | 5     |
-| 2       | Pen          | 20       | 5     |
-| 3       | Pencil       | 15       | 3     |
-| 4       | Pencil       | 5        | 3     |
-| 5       | Notebook     | 10       | 20    |
 
 ## 🛠️ Sample Queries
 ```sql
